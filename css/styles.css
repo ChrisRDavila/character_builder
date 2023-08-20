@@ -1,0 +1,12 @@
+.hidden {
+    display: none;
+}
+
+body {
+  background-color: aquamarine;
+  color: blue;
+}
+
+.btn {
+  background-color: whitesmoke;
+}
